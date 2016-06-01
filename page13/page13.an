@@ -1,0 +1,145 @@
+
+{
+
+	"HTMLFileName":"page13.html",
+	"Symbol_eyesfor-Default Timeline_playhead_ms":"0",
+	"expanded:images/bgss.png":"nil",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Symbol_eyesfor\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Symbol_yuns\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Symbol_turns\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }}\
+}",
+	"TransitionIdCounter":"34",
+	"symbol_Preloader":{
+		"dummyStageParentWidth":"1200px",
+		"dummyStageParentHeight":"742px",
+		"defaultStageParentWidth":"1200px",
+		"element_${_loader-bar}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"defaultStageParentHeight":"742px"},
+	"PreloaderType":"Polite",
+	"expanded:images/yun0001.png":"nil",
+	"symbol_Symbol_eyesfor":{
+		"element_${_eyes}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"animationEnabled":"true",
+			"timelineColor":"0x50bd82"}},
+	"stage-Default Timeline_mark_ms":"-1",
+	"Preloader-Default Timeline_playhead_ms":"0",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"expanded:images/yun0003.png":"nil",
+	"viewStartMs":"-7.3465568676414",
+	"symbol_Symbol_yuns":{
+		"element_${_yun0001}":{
+			"timelineColor2":"0x107faa",
+			"timelineColor3":"0x295a6d",
+			"animationEnabled":"true",
+			"timelineColor":"0x008dc8"},
+		"element_${_yun0003}":{
+			"timelineColor2":"0xba5b89",
+			"timelineColor3":"0x734a5f",
+			"animationEnabled":"true",
+			"timelineColor":"0xdb619d"},
+		"element_${_yun0002}":{
+			"timelineColor2":"0xd35d6e",
+			"timelineColor3":"0x7e4b52",
+			"animationEnabled":"true",
+			"timelineColor":"0xfb657a"}},
+	"pref__general__AutoKeyframePropertiesArmed":"false",
+	"expanded:images/loader-bar.gif":"nil",
+	"symbol_stage":{
+		"element_${_eyesCopy}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"animationEnabled":"false",
+			"timelineColor":"0x00bda4"},
+		"dummyStageParentWidth":"1200px",
+		"element_${_Symbol_yuns}":{
+			"timelineColor2":"0x5a558a",
+			"timelineColor3":"0x4a485e",
+			"animationEnabled":"true",
+			"timelineColor":"0x63599f"},
+		"dummyStageParentHeight":"742px",
+		"element_${_eyes}":{
+			"timelineColor2":"0x326a96",
+			"timelineColor3":"0x385063",
+			"animationEnabled":"false",
+			"timelineColor":"0x2f73ad"},
+		"element_${_Symbol_eyesfor}":{
+			"timelineColor2":"0x168c84",
+			"timelineColor3":"0x2a605c",
+			"animationEnabled":"true",
+			"timelineColor":"0x00a096"},
+		"element_${_Symbol_eyesforCopy}":{
+			"timelineColor2":"0x1095d2",
+			"timelineColor3":"0x29647e",
+			"animationEnabled":"true",
+			"timelineColor":"0x00a9fa"},
+		"defaultStageParentHeight":"742px",
+		"element_${_bgss}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"timelineColor":"0x91c767"},
+		"element_${_yun0001}":{
+			"timelineColor2":"0xb099ce",
+			"timelineColor3":"0x70657c",
+			"animationEnabled":"false",
+			"timelineColor":"0xceaef4"},
+		"defaultStageParentWidth":"1200px",
+		"element_${_Symbol_turns}":{
+			"timelineColor2":"0xd8b467",
+			"timelineColor3":"0x81714f",
+			"timelineColor":"0xffd46d",
+			"animationEnabled":"true",
+			"invisible":"false"},
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"element_${_Symbol_turnsCopy}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"animationEnabled":"true",
+			"timelineColor":"0xeedf79"}},
+	"PreloadAudio":"auto",
+	"CompZoomFactor":"100",
+	"viewStartY":"0",
+	"pixelsPerMs":"0.6805909339684",
+	"expanded:images/turn.png":"nil",
+	"expanded:images/yun0002.png":"nil",
+	"usedBOM":"false",
+	"nextElementColorIndex":"3",
+	"stage-Default Timeline_playhead_ms":"741",
+	"expanded:images/eyes.png":"nil",
+	"StageZoomFactor":"50",
+	"Symbol_yuns-Default Timeline_playhead_ms":"0"}

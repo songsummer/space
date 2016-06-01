@@ -1,0 +1,53 @@
+
+{
+
+	"expanded:images/Imageindex.png":"nil",
+	"HTMLFileName":"index.html",
+	"symbol_stage":{
+		"element_${_Imageindex}":{
+			"timelineColor2":"0x1aa38f",
+			"timelineColor3":"0x2a6a61",
+			"timelineColor":"0x00bda4"},
+		"element_${_SLOGO}":{
+			"timelineColor2":"0x4fa275",
+			"timelineColor3":"0x456a55",
+			"timelineColor":"0x50bd82"},
+		"defaultStageParentWidth":"1200px",
+		"dummyStageParentHeight":"742px",
+		"element_${_turn}":{
+			"timelineColor2":"0x81aa62",
+			"timelineColor3":"0x5b6c4d",
+			"animationEnabled":"false",
+			"timelineColor":"0x91c767"},
+		"defaultStageParentHeight":"742px",
+		"element_${_Stage}":{
+			"timelineColor2":"0xcbbd71",
+			"timelineColor3":"0x7b7652",
+			"timelineColor":"0xeedf79"},
+		"dummyStageParentWidth":"1200px"},
+	"PreloadAudio":"auto",
+	"CompZoomFactor":"100",
+	"StageZoomFactor":"50",
+	"pixelsPerMs":"0.2",
+	"expanded:images/turn.png":"nil",
+	"viewStartY":"0",
+	"usedBOM":"false",
+	"nextElementColorIndex":"5",
+	"stage-Default Timeline_playhead_ms":"0",
+	"pref__general__FilterNonAnimatedElements":"false",
+	"ModelData":"{\
+\"stage\": {\
+   \"timelines\": {\
+      \"Default Timeline\": {\
+      }\
+   }},\
+\"Preloader\": {\
+   \"timelines\": {\
+\
+   }},\
+\"Down-level\": {\
+   \"timelines\": {\
+\
+   }}\
+}",
+	"expanded:images/SLOGO.png":"nil"}
